@@ -7,8 +7,8 @@
 # =====================================================================
 
 # ---------- Identity ----------
-name: "Your Name"
-github_username: "yourusername"     # <- CHANGE THIS (must match your GitHub username)
+name: "Muntasir"
+github_username: "ddmuntasir"     # <- CHANGE THIS (must match your GitHub username)
 role: "CSE Student | Cyber Security Learner"
 location: "Dhaka, Bangladesh"
 bio:
