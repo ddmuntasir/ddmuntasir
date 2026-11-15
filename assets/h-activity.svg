@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img"><defs><filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<defs><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#00ff41"/><stop offset="1" stop-color="#00ff41" stop-opacity="0"/></linearGradient></defs>
+<g font-family="'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'Courier New',monospace">
+<text x="6" y="40" font-size="16" fill="#19d3a2">[06]</text>
+<text x="62" y="42" font-size="26" font-weight="700" letter-spacing="3" fill="#d2ffe0" filter="url(#glow)">CONTRIBUTION WORLD</text>
+<rect x="62" y="52" height="2" width="0" fill="url(#ln)"><animate attributeName="width" values="0;930;930;0" keyTimes="0;.22;.9;1" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="62" y="52" height="2" width="40" fill="#00ff41" filter="url(#glow)"/>
+</g></svg>
